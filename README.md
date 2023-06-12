@@ -86,7 +86,7 @@
     <a href="https://www.codechef.com/users/kajal_rathore">
         <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="codechef profile" width="200">
     </a>
-    <a href="https://auth.geeksforgeeks.org/user/kajalrathorecs20/">
+    <a href="[https://auth.geeksforgeeks.org/user/kajalsrathore2002]">
         <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" alt="hackerrank profile" width="200">
     </a>
 </div>
