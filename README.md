@@ -81,12 +81,12 @@
         <img src="https://cdn-images-1.medium.com/max/2600/1*UGT1Rh9xLww3JeIDR1F0RQ.png" alt="hackerrank profile" width="200">
     </a>
     <a href="https://codeforces.com/profile/kajal.rathore_cs20">
-        <img src="https://repository-images.githubusercontent.com/390296311/0f6c1240-462e-47ff-870d-e2d0ebb181f1" alt="hackerrank profile" width="200">
+        <img src="https://repository-images.githubusercontent.com/390296311/0f6c1240-462e-47ff-870d-e2d0ebb181f1" alt="codeforces profile" width="200">
     </a>
     <a href="https://www.codechef.com/users/kajal_rathore">
         <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="codechef profile" width="200">
     </a>
-    <a href="[https://auth.geeksforgeeks.org/user/kajalsrathore2002]">
+    <a href="https://auth.geeksforgeeks.org/user/kajalsrathore2002">
         <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" alt="hackerrank profile" width="200">
     </a>
 </div>
